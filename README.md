@@ -4,3 +4,5 @@ Bash script for ISC BIND to blockholing/sinkholing zones. Script is intended for
 Required packages:<br>
 curl<br>
 idn2
+
+Run it via cron for updates.
